@@ -28,22 +28,18 @@ Generate a realistic handheld selfie of the same person: indoors in a dimly lit 
 ```
 📌 Why This Matters
 
-Preserves facial identity and body proportions.
-
-Produces consistent image quality across variations.
-
-Prevents common generative issues (plastic skin, incorrect lighting, loss of identity).
-
-Helps standardize prompt-writing for visual research.
+- Preserves facial identity and body proportions.
+- Produces consistent image quality across variations.
+- Prevents common generative issues (plastic skin, incorrect lighting, loss of identity).
+- Helps standardize prompt-writing for visual research.
 
 📄 License
 
 This project is licensed under:
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 You are free to share and adapt this work for non-commercial purposes as long as you:
--Provide attribution
--Share under the same license
+- Provide attribution
+- Share under the same license
 
 🤝 Contributing
 Suggestions and improvements are welcome!
