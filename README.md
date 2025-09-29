@@ -49,5 +49,5 @@ Open an issue or submit a pull request with refinements, new sections, or additi
 
 [Gunawan Adi Wijaya]
 
-🔗 LinkedIn: [[your-linkedin](https://www.linkedin.com/in/gnwnadiwjy)]
-💻 GitHub: [[your-github](https://github.com/zelunkwn/)]
+🔗 LinkedIn: [[Profile](https://www.linkedin.com/in/gnwnadiwjy)]
+💻 GitHub: [[Profile](https://github.com/zelunkwn/)]
