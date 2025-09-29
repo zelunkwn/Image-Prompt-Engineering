@@ -14,15 +14,17 @@ The framework includes:
 - ⚡ **Generative Prompt Conversion** → how to merge descriptive sections into a final cohesive prompt.  
 - ✅ **Negative/Avoid Guidelines** → prevent unwanted distortions (plastic skin, elongated necks, oversharpening, etc.).
 
-flowchart TD
-    A[v1.1 → Basic structured sections] --> B[v1.2 → Added fit/accessories detail]  
-    B --> C[v1.3 → Enforced uniqueness + Negative/Avoid]  
-    C --> D[v1.4 → Explicit selfie handling]  
-    D --> E[v1.5 → Refined technical-only rules]  
-    E --> F[v1.6 → Depth cues + imperfections included]  
-    F --> G[v1.7 → Natural artifacts + realism focus]  
-    G --> H[v1.8 → Photography/Pose split]  
-    H --> I[v2.0 → Finalized Selfie & Photography frameworks]
+| Feature / Section                                                                               | v1.1 | v1.2 | v1.3 | v1.4 | v1.5 | v1.6 | v1.7 | v1.8 | v1.9 |              v2.0 (Selfie)              |
+| ----------------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :-------------------------------------: |
+| Basic sections (Scene, Clothing, Hair, Expression, Camera, Lighting, Skin, Imperfections, Mood) |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |                    ✔️                   |
+| Negative / Avoid rules                                                                          |      |      |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |                    ✔️                   |
+| Selfie-specific flag (explicit arm/hand note)                                                   |      |      |      |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  | Merged naturally into “Selfie Sections” |
+| Gaze direction in Expression                                                                    |      |      |      |      |      |      |      |      |      |                    ✔️                   |
+| Depth cues / surface details in Scene                                                           |      |      |      |      |      |      |  ✔️  |  ✔️  |  ✔️  |                    ✔️                   |
+| Hair imperfections (blur/lighting effects)                                                      |      |      |      |      |      |      |  ✔️  |  ✔️  |  ✔️  |                    ✔️                   |
+| Final Generative Prompt step                                                                    |      |      |      |      |      |      |      |      |  ✔️  |               ✔️ (refined)              |
+| Renaming → **Selfie Sections**                                                                  |   –  |   –  |   –  |   –  |   –  |   –  |   –  |   –  |   –  |                    ✔️                   |
+
 
 ---
 
