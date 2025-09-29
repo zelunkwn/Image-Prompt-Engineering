@@ -16,6 +16,9 @@ The framework includes:
 
 ---
 
+<img width="2379" height="1979" alt="image" src="https://github.com/user-attachments/assets/5d136eb3-b54e-4376-bdfd-e079aae0c71d" />
+
+
 📌 Evolution Table — Non-Pose → Selfie
 | Feature / Section                                                                               | v1.1 | v1.2 | v1.3 | v1.4 | v1.5 | v1.6 | v1.7 | v1.8 | v1.9 |              v2.0 (Selfie)              |
 | ----------------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :-------------------------------------: |
