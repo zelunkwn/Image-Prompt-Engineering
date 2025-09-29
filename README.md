@@ -108,6 +108,10 @@ Open an issue or submit a pull request with refinements, new sections, or additi
 
 ## 🌐 Author
 
-[[Gunawan Adi Wijaya]](https://www.instagram.com/gnwnadiwjy)
+🧑 Author: [[Profile]](https://www.instagram.com/gnwnadiwjy)
 🔗 LinkedIn: [[Profile](https://www.linkedin.com/in/gnwnadiwjy)]
 💻 GitHub: [[Profile](https://github.com/zelunkwn/)]
+
+---
+Too Fully Gained Access to the Documentation, Please Messages me via Email comndiss@gmail.com with the Subject "Image Prompting Research Access" or One of the Social Media Profile Linked above. 
+Please Fully Explain your details about wanting to gain Access to this Documentation, Thanks.
