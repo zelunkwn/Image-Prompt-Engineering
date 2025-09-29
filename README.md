@@ -12,7 +12,17 @@ The framework includes:
 - 📷 **Selfie Prompt Sections** → with pose and shot details specific to handheld/selfie context.  
 - 🎞 **Photography Prompt Sections** → structured prompts for wider photographic compositions.  
 - ⚡ **Generative Prompt Conversion** → how to merge descriptive sections into a final cohesive prompt.  
-- ✅ **Negative/Avoid Guidelines** → prevent unwanted distortions (plastic skin, elongated necks, oversharpening, etc.).  
+- ✅ **Negative/Avoid Guidelines** → prevent unwanted distortions (plastic skin, elongated necks, oversharpening, etc.).
+
+flowchart TD
+    A[v1.1 → Basic structured sections] --> B[v1.2 → Added fit/accessories detail]  
+    B --> C[v1.3 → Enforced uniqueness + Negative/Avoid]  
+    C --> D[v1.4 → Explicit selfie handling]  
+    D --> E[v1.5 → Refined technical-only rules]  
+    E --> F[v1.6 → Depth cues + imperfections included]  
+    F --> G[v1.7 → Natural artifacts + realism focus]  
+    G --> H[v1.8 → Photography/Pose split]  
+    H --> I[v2.0 → Finalized Selfie & Photography frameworks]
 
 ---
 
