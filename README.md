@@ -19,7 +19,7 @@ The framework includes:
 <img width="2379" height="1979" alt="image" src="https://github.com/user-attachments/assets/5d136eb3-b54e-4376-bdfd-e079aae0c71d" />
 
 
-📌 Evolution Table — Non-Pose → Selfie
+## 📌 Evolution Table — Non-Pose → Selfie
 | Feature / Section                                                                               | v1.1 | v1.2 | v1.3 | v1.4 | v1.5 | v1.6 | v1.7 | v1.8 | v1.9 |              v2.0 (Selfie)              |
 | ----------------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :-------------------------------------: |
 | Basic sections (Scene, Clothing, Hair, Expression, Camera, Lighting, Skin, Imperfections, Mood) |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |                    ✔️                   |
@@ -31,7 +31,7 @@ The framework includes:
 | Final Generative Prompt step                                                                    |      |      |      |      |      |      |      |      |  ✔️  |               ✔️ (refined)              |
 | Renaming → **Selfie Sections**                                                                  |   –  |   –  |   –  |   –  |   –  |   –  |   –  |   –  |   –  |                    ✔️                   |
 
-📌 Evolution Table — Pose → Photography
+## 📌 Evolution Table — Pose → Photography
 | Feature / Section                                                                                     | v1.1 | v1.2 | v1.3 | v1.4 | v1.5 | v1.6 | v1.7 | v1.8 |      v2.0 (Photography)      |
 | ----------------------------------------------------------------------------------------------------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--------------------------: |
 | Basic sections (Scene, Clothing, Hair, Expression, Pose, Camera, Lighting, Skin, Imperfections, Mood) |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |  ✔️  |              ✔️              |
@@ -47,7 +47,7 @@ The framework includes:
 
 ---
 
-📊 Evolution of Accuracy, Realism & Identity Consistency
+## 📊 Evolution of Accuracy, Realism & Identity Consistency
 🔹 Non-Pose → Selfie
 | Version           | Accuracy (following instructions) | Realism (photographic believability) | Identity Consistency (face match w/ refs) | Notes                                                                                   |
 | ----------------- | --------------------------------- | ------------------------------------ | ----------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -102,7 +102,7 @@ Open an issue or submit a pull request with refinements, new sections, or additi
 
 🌐 Author
 
-[Gunawan Adi Wijaya]
+[[Gunawan Adi Wijaya]](https://www.instagram.com/gnwnadiwjy)
 
 🔗 LinkedIn: [[Profile](https://www.linkedin.com/in/gnwnadiwjy)]
 💻 GitHub: [[Profile](https://github.com/zelunkwn/)]
