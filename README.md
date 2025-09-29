@@ -40,13 +40,12 @@ Helps standardize prompt-writing for visual research.
 
 This project is licensed under:
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-You are free to share and adapt this work for non-commercial purposes as long as you:
 
+You are free to share and adapt this work for non-commercial purposes as long as you:
 -Provide attribution
 -Share under the same license
 
 🤝 Contributing
-
 Suggestions and improvements are welcome!
 Open an issue or submit a pull request with refinements, new sections, or additional prompt structures.
 
